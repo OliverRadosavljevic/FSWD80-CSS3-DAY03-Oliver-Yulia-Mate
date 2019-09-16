@@ -1,0 +1,12 @@
+#placeholder{
+	font-size: 10px;
+	transition-duration: 10s;
+	transition: text-shadow 5s, font-weight 5s, font-size 3s, border 3s;
+}	
+
+#placeholder:hover{
+	text-shadow: 3px 3px 1px blue;
+	font-weight: bold;
+	font-size: 40px;
+	border: 10px dotted red;
+}
