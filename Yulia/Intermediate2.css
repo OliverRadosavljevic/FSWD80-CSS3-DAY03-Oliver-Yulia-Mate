@@ -1,0 +1,28 @@
+div.container {width: 232px;
+	height: 519px; 
+	font-family: arial;
+}
+
+.top {border-bottom: 8px solid black}
+
+p {font-size: 12px
+}
+
+div.top {display: inline-block;
+		float:left;
+		clear: both;
+}
+
+table.table1 tr.tr1  {vertical-align: bottom;
+	border-bottom: 2px solid black;
+}
+
+table {border-collapse: collapse;
+}
+
+tr, th {border-bottom: 2px solid black;
+}
+
+.right {text-align: right;
+}
+ 
