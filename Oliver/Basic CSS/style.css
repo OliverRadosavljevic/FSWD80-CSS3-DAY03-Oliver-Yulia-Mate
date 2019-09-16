@@ -1,0 +1,14 @@
+#first:hover{
+	font-size: 50px;
+	color: yellow;
+}
+
+#second:hover{
+	color: green;
+	text-shadow: 1px 1px 2px orange;
+}
+
+#third:hover{
+	font-weight: bold;
+	border: 5px dotted blue;
+}
