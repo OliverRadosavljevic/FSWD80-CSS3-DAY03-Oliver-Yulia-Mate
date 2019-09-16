@@ -1,0 +1,9 @@
+div.container:hover {
+	background: #d1e000;
+	color: white;
+	text-shadow: 1px 1px 2px black;
+	font-weight: bold;
+}
+
+div.container {transition: background 5s, text-shadow 2s, font-weight 5s;
+}
