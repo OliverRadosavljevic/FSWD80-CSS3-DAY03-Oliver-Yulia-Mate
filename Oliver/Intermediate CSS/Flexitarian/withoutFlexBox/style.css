@@ -1,0 +1,43 @@
+html{
+	font-family: arial;
+}
+body{
+   margin: auto;
+   height: 521px;
+   width: 232px;
+}
+
+header hr{
+	border: 6px solid black;
+}
+
+header p{
+	margin-top: -17px;
+}
+
+.aps{
+	font-size: 10px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-weight: bold;
+}
+
+#tableheader{
+	vertical-align: bottom;
+}
+
+td{
+	font-size: 13px;
+}
+
+.idontknow{
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+th,td{
+	border-bottom: 2px solid black;
+}
