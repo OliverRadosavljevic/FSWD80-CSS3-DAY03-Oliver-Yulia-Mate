@@ -1,0 +1,39 @@
+body {
+	width: 332px;
+	height: 519px;
+	margin: auto;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+hr {
+	border: 10px solid black;
+}
+
+table {
+ border-collapse: collapse;
+ width: 332px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 2px solid black;
+}
+
+#tableheader th {
+	vertical-align: bottom;
+}
+
+.headerline p {
+	line-height: 0.5px;
+}
+
+.tablerow1 td{
+	border-color: lightgrey;
+}
+
+#proteinrow {
+	border: 10px solid black;
+}
